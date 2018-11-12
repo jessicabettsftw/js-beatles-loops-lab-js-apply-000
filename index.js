@@ -1,9 +1,9 @@
 function theBeatlesPlay(musicians, instruments) {
   var temp = [];
   for(i = 0; i ++; i < musicians.length){
-    String member = musicians[i]
-    String instrument = instruments[i]
-    String combo = member + " plays " + instrument
+    var member = musicians[i]
+    var instrument = instruments[i]
+    var combo = member + " plays " + instrument
     temp[i] = combo
   }
 }
