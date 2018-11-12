@@ -21,12 +21,13 @@ function johnLennonFacts(facts){
   return facts;
 }
 
-function iLoveTheBeatles(){
+function iLoveTheBeatles(number){
   var temp = [];
   var love = "I love the Beatles!";
+  var maxValue = 15;
   do{
     
-  } while ();
+  } while (number < maxValue);
   
   return "tree";
 }
