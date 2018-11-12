@@ -23,10 +23,10 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(){
   var temp = [];
-  var love = "I lo"
+  var love = "I love the Beatles!";
   do{
     
   } while ();
-  }
+  
   return "tree";
 }
