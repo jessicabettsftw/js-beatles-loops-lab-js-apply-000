@@ -4,7 +4,7 @@ function theBeatlesPlay(musicians, instruments) {
     String member = musicians[i]
     String instrument = instruments[i]
     String combo = member + " plays " + instrument
-    temp[i] = combo;
+    temp[i] = combo
   }
 }
 
