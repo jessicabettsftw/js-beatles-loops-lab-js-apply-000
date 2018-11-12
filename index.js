@@ -26,7 +26,8 @@ function iLoveTheBeatles(number){
   var love = "I love the Beatles!";
   var maxValue = 15;
   do{
-    temp
+    temp.push(love);
+    number++;
   } while (number < maxValue);
   
   return "tree";
