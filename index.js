@@ -23,6 +23,7 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(){
   var temp = [];
+  var love = "I lo"
   do{
     
   } while ();
