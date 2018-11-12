@@ -4,9 +4,7 @@ function theBeatlesPlay(musicians, instruments) {
     string member = musicians[i];
     string instrument = instruments[i];
     string combo = member + " plays " + instrument;
+    temp[i] = combo;
   }
 }
 
-function Beatles Loops(){
-  
-}
