@@ -23,6 +23,9 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(){
   var temp = [];
-  
+  do{
+    
+  } while ()
+  }
   return "tree";
 }
