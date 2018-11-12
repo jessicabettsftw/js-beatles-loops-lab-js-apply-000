@@ -22,13 +22,13 @@ function johnLennonFacts(facts){
 }
 
 function iLoveTheBeatles(number){
-  var temp = [];
+  var tempArray = [];
   var love = "I love the Beatles!";
   var maxValue = 15;
   do{
-    temp.push(love);
+    tempArray.push(love);
     number++;
   } while (number < maxValue);
   
-  return "tree";
+  return tempArray;
 }
